@@ -20,13 +20,13 @@ Users enter car details through the web interface. The input data is preprocesse
 
 ## 📁 Repository Structure
 Car_Price_prediction/
-│
-├── src/
-│ └── streamlit_app.py # Main Streamlit application
-├── requirements.txt # Python dependencies
-├── Dockerfile # Deployment configuration
-├── README.md # Project documentation
-└── model/ # Trained model files (if included)
+- │
+- ├── src/
+- │ └── streamlit_app.py # Main Streamlit application
+- ├── requirements.txt # Python dependencies
+- ├── Dockerfile # Deployment configuration
+- |── README.md # Project documentation
+- └── model/ # Trained model files (if included)
 
 ## 🧮 Technologies Used
 - Python  
@@ -48,6 +48,17 @@ The model is trained using supervised learning regression techniques on historic
 📜 License
 
 This project is licensed under the MIT License.
+
+
+
+
+## 🙋‍♂️ About Me
+**Yadagiri Kuruva**  
+Recent B.Tech graduate in CSE (AI & DS) | Data Science & Analytics Enthusiast  
+🔗 [GitHub](https://github.com/k-yadagiri)  
+🔗 [LinkedIn](https://www.linkedin.com/in/k-yadagiri)  
+
+---
 
 
 
