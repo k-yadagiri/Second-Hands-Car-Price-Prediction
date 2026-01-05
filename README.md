@@ -41,7 +41,9 @@ Car_Price_prediction/
    git clone https://huggingface.co/spaces/giriyadagiri/Car_Price_prediction
 pip install -r requirements.txt
 streamlit run src/streamlit_app.py
-📊 Model Description
+
+
+## 📊 Model Description
 
 The model is trained using supervised learning regression techniques on historical used-car data. Feature engineering and preprocessing steps are applied to improve prediction accuracy. Performance is evaluated using standard regression metrics such as MAE, RMSE, and R² score.
 
